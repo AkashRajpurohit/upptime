@@ -40,19 +40,19 @@
     "url": "https://rengoku.akashrajpurohit.com",
     "icon": "https://icons.duckduckgo.com/ip3/rengoku.akashrajpurohit.com.ico",
     "slug": "umami-self-hosted",
-    "status": "down",
-    "uptime": "94.08%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "94.08%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "94.08%",
-    "time": 676,
-    "timeDay": 676,
-    "timeWeek": 676,
-    "timeMonth": 676,
-    "timeYear": 676,
+    "status": "up",
+    "uptime": "79.98%",
+    "uptimeDay": "79.98%",
+    "uptimeWeek": "79.98%",
+    "uptimeMonth": "79.98%",
+    "uptimeYear": "79.98%",
+    "time": 731,
+    "timeDay": 731,
+    "timeWeek": 731,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-03-06": 13
+      "2024-03-06": 53
     }
   }
 ]
