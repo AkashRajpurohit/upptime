@@ -22,18 +22,19 @@
     "url": "https://tanjiro.akashrajpurohit.com",
     "icon": "https://icons.duckduckgo.com/ip3/tanjiro.akashrajpurohit.com.ico",
     "slug": "umami-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 147,
-    "timeWeek": 165,
-    "timeMonth": 157,
+    "timeDay": 208,
+    "timeWeek": 178,
+    "timeMonth": 160,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-04-10": 14
     }
   }
