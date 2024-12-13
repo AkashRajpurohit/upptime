@@ -6,7 +6,7 @@ sites:
   - name: AkashRajpurohit
     url: https://akashrajpurohit.com
   - name: Umami (Cloud)
-    url: https://tanjiro.akashrajpurohit.com
+    url: https://tanjiro.akashrajpurohit.com/api/heartbeat
   # - name: Umami (Self-Hosted)
   #   url: https://rengoku.akashrajpurohit.com
 
