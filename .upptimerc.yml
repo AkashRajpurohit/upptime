@@ -8,7 +8,7 @@ sites:
   - name: Umami (Cloud)
     url: https://tanjiro.akashrajpurohit.com/api/heartbeat
   - name: Umami (Self-Hosted)
-    url: https://akaza.akashrajpurohit.com
+    url: https://akaza.akashrajpurohit.com/api/heartbeat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
