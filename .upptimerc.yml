@@ -5,9 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: AkashRajpurohit
     url: https://akashrajpurohit.com
-  - name: Umami (Cloud)
-    url: https://tanjiro.akashrajpurohit.com/api/heartbeat
-  - name: Umami (Self-Hosted)
+  - name: Umami
     url: https://akaza.akashrajpurohit.com/api/heartbeat
 
 status-website:
