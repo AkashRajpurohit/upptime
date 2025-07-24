@@ -7,6 +7,10 @@ sites:
     url: https://akashrajpurohit.com
   - name: Umami
     url: https://akaza.akashrajpurohit.com/api/heartbeat
+  - name: Eternal Vault
+    url: https://eternalvault.app
+  - name: Eternal Vault [API]
+    url: https://api.eternalvault.app/v1/healthy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
