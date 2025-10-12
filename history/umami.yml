@@ -1,7 +1,7 @@
 url: https://akaza.akashrajpurohit.com/api/heartbeat
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2025-10-12T09:49:12.554Z
+status: down
+code: 530
+responseTime: 164
+lastUpdated: 2025-10-12T10:36:28.180Z
 startTime: 2025-03-05T16:14:08.076Z
 generator: Upptime <https://github.com/upptime/upptime>
