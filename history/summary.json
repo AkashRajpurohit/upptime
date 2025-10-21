@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 155,
-    "timeWeek": 207,
-    "timeMonth": 359,
-    "timeYear": 217,
+    "timeDay": 152,
+    "timeWeek": 200,
+    "timeMonth": 356,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-03-21": 8
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/akaza.akashrajpurohit.com.ico",
     "slug": "umami",
     "status": "up",
-    "uptime": "97.52%",
-    "uptimeDay": "67.38%",
+    "uptime": "97.53%",
+    "uptimeDay": "80.13%",
     "uptimeWeek": "92.84%",
     "uptimeMonth": "97.01%",
-    "uptimeYear": "97.52%",
+    "uptimeYear": "97.53%",
     "time": 400,
-    "timeDay": 209,
-    "timeWeek": 396,
-    "timeMonth": 397,
+    "timeDay": 359,
+    "timeWeek": 392,
+    "timeMonth": 394,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-10-20": 392,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 209,
-    "timeWeek": 259,
-    "timeMonth": 246,
-    "timeYear": 277,
+    "time": 276,
+    "timeDay": 212,
+    "timeWeek": 260,
+    "timeMonth": 242,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
